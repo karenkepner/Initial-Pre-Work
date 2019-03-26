@@ -1,2 +1,2 @@
-Learn arrow functions
+// Learn arrow functions
 const magic = () => new Date();
